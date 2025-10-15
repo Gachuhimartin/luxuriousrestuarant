@@ -1,2 +1,2 @@
 # luxuriousrestuarant
-for education purpuse
+for education purpose
